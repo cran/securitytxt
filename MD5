@@ -1,4 +1,4 @@
-266379ce8f0c6ebc98ef1ae8edf31ecd *DESCRIPTION
+6cec9643094baf4327bb345c8845332c *DESCRIPTION
 9e30f576f8e7741788645dfddcb1822d *LICENSE
 1065b5faf966dd26edaf7e0d2c167472 *NAMESPACE
 b3b026a46bd21378f2afa4cdfb4e4951 *NEWS.md
@@ -6,7 +6,6 @@ b3b026a46bd21378f2afa4cdfb4e4951 *NEWS.md
 a8f989da8a8c3aff45f91b4f409680ec *R/sectxt.r
 0de728068cdc0192d5c1bfa568980c81 *R/securitytxt-package.R
 e9915cdca9793eaa16e5bf3e9c7888c1 *R/validate.r
-5ceb5b453c557a33f7e35740120c2acd *README.md
 73696dc9c2f3c03d99fbb0aff3be3076 *inst/COPYRIGHTS
 6fabb3d3ad2a5d696da0ad739b33cea3 *inst/extdata/security.txt
 3bd376825528f46c4612c8d967ddc291 *man/sectxt.Rd
@@ -20,7 +19,7 @@ b2e2ee1af1925c2f687c1b124b4bd6e8 *src/RcppExports.cpp
 fd544cee91b5ef4f9979e3f5a505f544 *src/psl.h
 7b5fbd467e0be6bbf2d9e6c5df00d685 *src/punycode.cpp
 516f72719db7aebfc8054eddd035bd92 *src/punycode.h
-a0c476533eb73605e3290814c94ba9b6 *src/security.cpp
+5811f4694d5169716e368aac2398df3b *src/security.cpp
 f84451e07784ffd3322e9e692fee0d80 *src/security.h
 c64ef6ec407af176832cd62210d14ef6 *src/securitymain.cpp
 daff6da057cf7593fdcad56fd733d2eb *src/url.cpp
